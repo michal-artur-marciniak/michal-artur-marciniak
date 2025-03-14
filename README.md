@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Michał Artur Marciniak</h1>
-<h3 align="center">A visionary senior full stack developer from Poland</h3>
 
 - 📫 How to reach me **michal.artur@marciniak.cloud**
 
